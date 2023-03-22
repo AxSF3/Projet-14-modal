@@ -1,7 +1,7 @@
 {
-  "name": "retro-apple-inspired-react-modal",
-  "description": "a react modal component with a retro-apple inspired design",
-  "author": "git504",
+  "name": "modal-axsf3",
+  "description": "a retro modal",
+  "author": "AxSF3",
   "keywords": [
     "react",
     "components",
@@ -11,7 +11,6 @@
     "apple"
   ],
   "version": "0.1.2",
-  "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -21,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/git504/modal-wealth-health"
+    "url": "git+https://github.com/AxSF3/Projet-14-modal.git"
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
@@ -62,5 +61,10 @@
     "@babel/cli": "^7.18.10",
     "@babel/core": "^7.18.13",
     "@babel/preset-env": "^7.18.10"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/AxSF3/Projet-14-modal/issues"
+  },
+  "homepage": "https://github.com/AxSF3/Projet-14-modal#readme",
+  "license": "ISC"
 }
