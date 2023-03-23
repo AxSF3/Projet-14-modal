@@ -1,3 +1,3 @@
-import RetroAppleInspiredModal from "./component/RetroAppleInspiredModal";
+import modal from "./component/RetroAppleInspiredModal";
 
-export { RetroAppleInspiredModal };
+export { modal };
