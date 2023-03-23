@@ -1,7 +1,7 @@
-import modal from "./lib/component/modal.js";
+import Modal from "./lib/component/modal.js";
 import { useState } from "react";
 
-function modal() {
+function Modal() {
   const [openModal, setOpenModal] = useState(false);
 
   const handleModal = (e) => {
@@ -20,7 +20,7 @@ function modal() {
       {/* set your trigger button here */}
       <button onClick={handleModal}>To replace by your trigger button</button>
       {/* alert box here below */}
-      <RetroAppleInspiredModal
+      <Modal
         openModal={openModal}
         setOpenModal={setOpenModal}
         customText={customText}
@@ -30,4 +30,4 @@ function modal() {
   );
 }
 
-export default modal;
+export default Modal;

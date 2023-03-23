@@ -4,7 +4,7 @@ import borderImage from "./assets/button.png";
 import { createGlobalStyle } from "styled-components";
 import Chicago_12 from "./assets/ChicagoFLF.ttf";
 
-const modal = ({
+const Modal = ({
   openModal,
   setOpenModal,
   customText,
@@ -158,4 +158,4 @@ const StyledButtonSection = styled.div`
   margin-top: 6px;
 `;
 
-export default modal;
+export default Modal;
