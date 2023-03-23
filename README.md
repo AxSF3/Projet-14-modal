@@ -1,4 +1,4 @@
-## A small but functional retro Apple-inspired modal
+## Modal Project 14
 
 ![logo](./public/modal.png)
 
